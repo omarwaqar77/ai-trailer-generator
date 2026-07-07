@@ -213,13 +213,6 @@ python evaluation.py
 
 ---
 
-## Authors
-
-- Mohammad Omar Waqar
-- Hassan Tariq
-- Najam Ul Saqib
-- Khadija Usman
-- Diya Hurmat
 
 FAST National University of Computer and Emerging Sciences
 
