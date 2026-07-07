@@ -118,14 +118,14 @@ The selected clips are arranged into a coherent sequence to create a concise mov
 
 ### 4. Visual Enhancement
 
-The generated trailer is enhanced using cinematic visual effects including:
+The generated trailer is enhanced using a creepy visual theme, including:
 
-- Color grading
-- Contrast enhancement
-- Atmospheric effects
-- Scene stylization
+- Background desaturation
+- Red-tinted aura and darkening effects
+- Chromatic aberration glitch effects
+- Frame flicker for tension
 
-These enhancements improve the overall presentation of the trailer.
+These transformations give the trailer a distinct horror aesthetic.
 
 ---
 
